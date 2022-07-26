@@ -1,0 +1,24 @@
+{
+    "name": "javascript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "m1-001.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DjGiakma94/learing_javascript.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DjGiakma94/learing_javascript/issues"
+    },
+    "homepage": "https://github.com/DjGiakma94/learing_javascript#readme",
+    "dependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
